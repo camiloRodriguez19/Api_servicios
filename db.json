@@ -1,0 +1,34 @@
+{
+  "Servicios": [
+    {
+      "id": 1,
+      "name": "Entrenamiento Personalizado",
+      "description": "Experimenta una transformación fitness significativa con la orientación personalizada de nuestros entrenadores certificados. Enfocados en tus metas específicas, estos profesionales capacitados te guiarán a través de un programa personalizado diseñado para maximizar tu rendimiento y alcanzar tus objetivos de acondicionamiento físico. ",
+      "img": "https://ideogram.ai/g/eldc1WJ7RAGTIhgU5w4zcg/0"
+    },
+    {
+      "id": 2,
+      "name": "Clases de Yoga",
+      "description": "Embárcate en un viaje hacia la armonía interior y el fortalecimiento físico a través de nuestras clases de yoga. Diseñadas para todos los niveles, estas sesiones te invitan a sumergirte en un espacio tranquilo donde puedes relajar tu mente y cultivar la fuerza de tu cuerpo. Guiados por instructores expertos, cada clase se adapta a las necesidades individuales, ofreciendo un equilibrio perfecto entre la serenidad mental y el fortalecimiento físico.",
+      "img": "https://ideogram.ai/g/EKUROtsCSqWP0xwul9FK9Q/1"
+    },
+    {
+      "id": 3,
+      "name": "Clases de Piscina",
+      "description": "Sumérgete en la experiencia rejuvenecedora de nuestra piscina olímpica climatizada, un oasis acuático diseñado para complacer a nadadores de todos los niveles y edades. Desde los más pequeños hasta los expertos en natación, todos encontrarán en nuestro espacio acuático un ambiente acogedor para perfeccionar sus habilidades y disfrutar de la práctica de la natación.",
+      "img": "https://ideogram.ai/g/Mygaot99SEu4gxUenA9b4g/1"
+    },
+    {
+      "id": 4,
+      "name": "Clases de Karate",
+      "description": "Embárcate en un fascinante viaje de autodescubrimiento mientras aprendes las artes marciales japonesas tradicionales en nuestro centro. Nuestros experimentados instructores te guiarán a través de técnicas milenarias, ayudándote a desarrollar no solo fuerza física, sino también una disciplina mental y emocional sólida.",
+      "img": "https://ideogram.ai/g/f7rX2njLQWevxgEou_lGRQ/3"
+    },
+    {
+      "id": 5,
+      "name": "Levantamiento de Pesas",
+      "description": "En nuestras instalaciones de levantamiento de pesas, te ofrecemos un entorno propicio para potenciar tanto tu fuerza como tu resistencia. Con el respaldo de entrenadores altamente calificados, recibirás orientación personalizada para optimizar tus rutinas de levantamiento, permitiéndote alcanzar nuevos niveles de desempeño físico.",
+      "img": "https://ideogram.ai/g/tm024SG8RqOyoi3ulaycNw/2"
+    }
+  ]
+}
